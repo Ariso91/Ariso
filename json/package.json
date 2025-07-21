@@ -1,7 +1,7 @@
 {
   "name": "roblox-generator-bot",
   "version": "1.0.0",
-  "description": "Bot Discord pour générer des comptes Roblox",
+  "description": "https://github.com/Ariso91/Gen-roblox-js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -20,6 +20,6 @@
     "roblox",
     "generator"
   ],
-  "author": "Your Name",
+  "author": "Ariso",
   "license": "MIT"
 }
