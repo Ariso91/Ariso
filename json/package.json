@@ -1,0 +1,25 @@
+{
+  "name": "roblox-generator-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour générer des comptes Roblox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "roblox",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
